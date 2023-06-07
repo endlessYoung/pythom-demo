@@ -127,4 +127,3 @@ check：设置为 True，如果命令返回非零状态码，则会抛出 Called
 
 
 ADBTool()
-
